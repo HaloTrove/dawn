@@ -1,0 +1,15 @@
+/* ===== MAIN THEME ===== */
+:root {
+  --primary: #0A2463; /* Navy */
+  --secondary: #FF6B35; /* Orange */
+  --accent: #00C49A; /* Turquoise */
+  --dark: #1A1A2E; 
+  --light: #F8F9FA;
+}
+
+/* Header (Mega Menu) */
+.header { 
+  background: var(--dark);
+  border-bottom: 3px solid var(--secondary);
+}
+/* Full CSS available - truncated for space */
